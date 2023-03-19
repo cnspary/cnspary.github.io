@@ -1,0 +1,57 @@
+theme = "harbor"
+baseurl = "https://cnspary.cn/"
+title = " "
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[Author]
+  name = "xingyu wang"
+
+[outputs]
+  section = ["JSON", "HTML"]
+
+[[params.nav]]
+  identifier = "paper"
+  name = "paper"
+  icon = "fas fa-blog fa-lg"
+  url = "post"
+  weight = 3
+
+[[params.nav]]
+  identifier = "article"
+  name = "article"
+  icon = "fas fa-archive fa-lg"
+  url = "article"
+  weight = 3
+
+[[params.nav]]
+  identifier = "categories"
+  name = "Category"
+  icon = "fas fa-folder-open fa-lg"
+  url = "categories"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "tags"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tools"
+  name = "Tools"
+  icon = "fas fa-toolbox fa-lg"
+  url = "tools"
+  weight = 3
+
+[params.logo]
+  url = "icon.png" # static/images/icon.png
+  width = 50
+  height = 50
+  alt = "Logo"
+
+
