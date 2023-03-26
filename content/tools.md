@@ -11,3 +11,7 @@ draft: false
 - Conference
     - [中国计算机学会推荐国际学术会议和期刊目录（2022 年）](/ccf.pdf)
     - [CCF recommendation conference Deadline](https://ccfddl.github.io/)
+- Cheat Sheet
+    - [vim Cheat Sheet](/CheetSheet/vim.pdf)
+    - [Tmux Cheat Sheet](/CheetSheet/Tmux.pdf)
+    - [SQL Cheat Sheet](/CheetSheet/SQL.pdf)
