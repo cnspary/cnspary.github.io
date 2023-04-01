@@ -6,6 +6,8 @@ draft: false
 - Paper Writing
     - [LateX Command Summary](/LateXCommandSummary.pdf)
     - [Table Generator for LateX](https://www.tablesgenerator.com/#)
+- PPT
+    - [Office 365](https://www.coolhub.top/archives/14) 
 - Figure Color Palette 
     - [ColorSpace](https://mycolor.space/)
 - Conference
