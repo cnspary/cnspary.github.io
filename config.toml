@@ -13,6 +13,9 @@ footnoteReturnLinkContents = "^"
 [outputs]
   section = ["JSON", "HTML"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[params.nav]]
   identifier = "paper"
   name = "paper"
