@@ -8,6 +8,9 @@ draft: false
     - [Table Generator for LateX](https://www.tablesgenerator.com/#)
 - Figure Color Palette 
     - [ColorSpace](https://mycolor.space/)
+- AI Assistant
+    - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+    - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - Conference
     - [中国计算机学会推荐国际学术会议和期刊目录（2022 年）](/ccf.pdf)
     - [CCF recommendation conference Deadline](https://ccfddl.github.io/)
