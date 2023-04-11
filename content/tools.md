@@ -10,6 +10,7 @@ draft: false
     - [Office 365](https://www.coolhub.top/archives/14) 
 - Figure Color Palette 
     - [ColorSpace](https://mycolor.space/)
+    - [48种数据分析可视化图表](https://blog.csdn.net/fuhanghang/article/details/128016831)
 - AI Assistant
     - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
     - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
