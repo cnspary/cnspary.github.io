@@ -29,13 +29,15 @@ draft: false
 
 - Group
   - 玉泉
-    ‒ Dell R740 (512G memory，40Core，512G SSD，2T HDD)
-    ‒ Inspur NF52750M2 (270G memory，40Core，2T SSD)
-    ‒ Taishang (125G memory，96Core，3.5T HDD)
-  ‒ 科创
-    ‒ SPP （100G memory，56Core，500G SSD）
-    ‒ 超威H13SSL-N (768G memory，96Core，4T SSD，40T HDD)
+    - Dell R740 (512G memory，40Core，512G SSD，2T HDD)
+    - Inspur NF52750M2 (270G memory，40Core，2T SSD)
+    - Taishang (125G memory，96Core，3.5T HDD)
+  
+  - 科创
+    - SPP （100G memory，56Core，500G SSD）
+    - 超威H13SSL-N (768G memory，96Core，4T SSD，40T HDD)
     - 珑京LA2213G-4A * 2 (768G memory, 96Core * 2, Nvidia 4090 * 2, 12T SSD, 100T HDD)
-  ‒ 嘉兴
-    ‒ Node28 (380G memory，48Core，438G SSD，300T HDD)
-    ‒ Node30 (380G memory，48Core，200G SSD，300T HDD)
+  
+  - 嘉兴
+    - Node28 (380G memory，48Core，438G SSD，300T HDD)
+    - Node30 (380G memory，48Core，200G SSD，300T HDD)
