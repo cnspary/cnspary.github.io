@@ -37,6 +37,12 @@ draft: false
     - SPP （100G memory，56Core，500G SSD）
     - 超威H13SSL-N (768G memory，96Core，4T SSD，40T HDD)
     - 珑京LA2213G-4A * 2 (768G memory, 96Core * 2, Nvidia 4090 * 2, 12T SSD, 100T HDD)
+      - kc-server-1
+        - cnspary
+        - zcy
+        - loadCold
+      - kc-server-2
+        - ms
   
   - 嘉兴
     - Node28 (380G memory，48Core，438G SSD，300T HDD)
