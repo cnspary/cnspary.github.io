@@ -1,8 +1,9 @@
 ---
-title: "Tools"
+title: "MISC"
 date: 2021-10-19T16:47:52+08:00
 draft: false 
 ---
+
 - Paper Writing
     - [chatpdf](https://www.chatpdf.com/)
     - [LateX Command Summary](/LateXCommandSummary.pdf)
@@ -24,3 +25,4 @@ draft: false
     - [SQL Cheat Sheet](/CheetSheet/SQL.pdf)
 - Network
     - [A Fast Reverse Proxy](https://gofrp.org/)
+

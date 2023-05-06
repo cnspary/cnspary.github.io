@@ -46,9 +46,9 @@ footnoteReturnLinkContents = "^"
 
 [[params.nav]]
   identifier = "tools"
-  name = "Tools"
+  name = "Misc"
   icon = "fas fa-toolbox fa-lg"
-  url = "tools"
+  url = "misc"
   weight = 3
 
 [params.logo]
