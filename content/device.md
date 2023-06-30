@@ -44,6 +44,6 @@ draft: false
       - kc-server-2
         - ms
   
-  - ~嘉兴~
-    - ~Node28 (380G memory，48Core，438G SSD，300T HDD)~
-    - ~Node30 (380G memory，48Core，200G SSD，300T HDD)~
+  - ~~嘉兴~~
+    - ~~Node28 (380G memory，48Core，438G SSD，300T HDD)~~
+    - ~~Node30 (380G memory，48Core，200G SSD，300T HDD)~~
