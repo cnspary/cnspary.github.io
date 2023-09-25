@@ -16,6 +16,7 @@ draft: false
     - RAM   16.0 GB
     - SSD   1.0 TB
     - GPU   GeFroce RTX 4070 8GB
+    - Serial Number R1NRKD01045101A
 
   - Display
     - Dell U2520D * 2
