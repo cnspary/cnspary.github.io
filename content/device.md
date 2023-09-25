@@ -20,10 +20,10 @@ draft: false
 
   - Display
     - Dell U2520D * 2
-      - Express Service Code 15543036939
-      - Express Service Code 18852301659
+      - Express Service Code 15543036939  (学院)
+      - Express Service Code 18852301659  (学院)
     - Dell U2722DX
-      - Express Service Code 8278895271
+      - Express Service Code 8278895271   (组内)
 
   - Misc
     - Laptop Memory: Samsung RAM 16GB DDR5 4800MHz M425R2GA3BBO-CQK
@@ -38,13 +38,7 @@ draft: false
     - SPP （100G memory，56Core，500G SSD）
     - 超威H13SSL-N (768G memory，96Core，4T SSD，40T HDD)
     - 珑京LA2213G-4A * 2 (768G memory, 96Core * 2, Nvidia 4090 * 2, 12T SSD, 100T HDD)
-      - kc-server-1
-        - cnspary
-        - zcy
-        - loadCold
-      - kc-server-2
-        - ms
   
-  - 嘉兴
-    - Node28 (380G memory，48Core，438G SSD，300T HDD)
-    - Node30 (380G memory，48Core，200G SSD，300T HDD)
+  - ~~嘉兴~~
+    - ~~Node28 (380G memory，48Core，438G SSD，300T HDD)~~
+    - ~~Node30 (380G memory，48Core，200G SSD，300T HDD)~~
